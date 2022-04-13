@@ -5,3 +5,7 @@ hello! my name is seaung.
 
 
 ![Seaung's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seaung&layout=compact&hide_border=true&langs_count=10)
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/seaung/count.svg)
